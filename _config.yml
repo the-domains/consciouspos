@@ -1,0 +1,25 @@
+typography_spectrum: 0.22034062701277435
+color:
+  brandStrength: 0.8173720373306423
+  lightness: 0.19760212418623269
+  saturation: 0.9766467800363898
+  rhythmicContrast: 0.8518178453668952
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+github: true
+layout_spectrum: 0.5191037978511304
+author:
+  name: conscious POS
+  email: helpdesk@consciouspos.com
+  url: 'https://www.consciouspos.com/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bcdf669-e9cc-40cc-9160-7605b14c63b4.png
+name: consciouspos
+url: 'https://www.consciouspos.com/'
+title: conscious pos
+content: []
+description: Point of Sale Systems and Solutions | Mobile POS
