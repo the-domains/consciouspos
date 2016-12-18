@@ -23,3 +23,7 @@ url: 'https://www.consciouspos.com/'
 title: conscious pos
 content: []
 description: Point of Sale Systems and Solutions | Mobile POS
+purpose:
+  - type: contact
+    url: 'tel:(877)-847-8120'
+    label: Call (877)-847-8120
