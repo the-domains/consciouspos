@@ -27,3 +27,6 @@ purpose:
   - type: contact
     url: 'tel:(877)-847-8120'
     label: Call (877)-847-8120
+  - type: contact
+    url: 'mailto:helpdesk@consciouspos.com'
+    label: Anything you need
